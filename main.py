@@ -10,7 +10,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.page import PageMargins
 
 # New folder
-month = 'Январь_Февраль'
+month = 'Январь_Март'
 archive = os.mkdir(f'path_\\Archive_{month}')
 
 # Connect to the MySQL database
